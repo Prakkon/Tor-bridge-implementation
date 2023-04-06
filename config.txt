@@ -1,0 +1,8 @@
+ORPort 443
+Exitpolicy reject *:*
+Nickname TorCyberSec
+ContactInfo sejalbanka1755@gmail.com
+Log notice file /var/log/tor/notices.log
+Log debug file /var/log/tor/debug.log
+RelayBandwidthRate 1024 KB
+RelayBandwidthBurst 1024 KB
