@@ -1,0 +1,6 @@
+For a network comprising of 100 clients, 10 relays (additional relays if bridges are being considered, so 5 more), depending on various factors the specifications for a VM to host such a network are:
+
+1) 30 GB of disk space per month of network traffic
+2) 15 GB Memory per client
+3) 2.5GHz Processor
+4) 100 MBPs Bandwidth
