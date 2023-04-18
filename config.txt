@@ -1,6 +1,6 @@
 ORPort 443
 Exitpolicy reject *:*
-Nickname TorCyberSec
+Nickname torkhar
 ContactInfo prakhar.sharks1113@gmail.com 
 Log notice file /var/log/tor/notices.log
 Log debug file /var/log/tor/debug.log
