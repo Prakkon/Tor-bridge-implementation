@@ -4,7 +4,7 @@
 
 - Create and run a cloud VM instance, create a Tor Network on the same. 
 - Refer to the [Official Documentation](https://www.community.torproject.org) for the environment setup and bridge relay addition.
-- Check out the [vmspecs.txt](vmspecs.txt  for the dependencies and minimum size, memory requirements to run the tor network.
+- Check out the [vmspecs.txt](vmspecs.txt) for the dependencies and minimum size, memory requirements to run the tor network.
 - Create a torrc file for configuration management, add [config.txt](config.txt) in it (change it according to your requirements)
 - use ``systemctl`` to ``enable``, and ``start`` your tor network.
 - instantiate a tor bridge on the tor network.
